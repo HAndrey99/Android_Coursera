@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AndroidCoursera" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/ColorPrymary</item>
+        <item name="colorPrimaryDark">@color/ColorPrymaryDark</item>
+        <item name="colorAccent">@color/ColorAssent</item>
+    </style>
+
+    <style name="Theme.AndroidCoursera" parent="Base.Theme.AndroidCoursera" />
+</resources>
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ColorPrymary">#00BCD4</color>
+    <color name="ColorPrymaryDark">#0097A7</color>
+    <color name="ColorAssent">#795548</color>
+</resources>
